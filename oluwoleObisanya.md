@@ -49,9 +49,9 @@ Final Output: [SeeHTMLOutputHere](displayConstruction.png)
 
 - [X] Understanding the XML File and its structure: It's really challenging trying to understand the structure of the data in the XML file and how to access it using JavaScript. Putting into consideration the number of lines of the XML Data.
 
-- [X] Debugging Code: While working with the XSD, XSLT and HTML & JavaScript, I encountered errors in my code, situations whereby my page returns blank output, or scenes where I tried to debug the console log errors, among others is time-consuming and frustrating. 
+- [X] Debugging Code: While working with the XSD, XSLT and HTML & JavaScript, I encountered errors in my code, situations whereby my page returns blank output, or scenes where I tried to debug the console log errors, among others: is time-consuming and frustrating. 
 
 ## Conclusion
 
 In conclusion, the challenges I encountered during this project played a vital role in setting me up to achieve the goal of this project.
-Additionally, I took some time out to research more even beyond the scope of class activity which I can aplly to future project in the area of HTML, CSS and JAVSRIPT.
+Additionally, I took some time out to research more even beyond the scope of class activity which I can apply to future project in the area of HTML, CSS and JAVASCRIPT.
